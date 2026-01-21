@@ -1,0 +1,20 @@
+{
+  "name": "Cyber Cafe Pro",
+  "short_name": "CyberCafe",
+  "start_url": "/Cyber%20Cafe%20Management%20System/index.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2936/2936886.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2936/2936886.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

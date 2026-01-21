@@ -1,0 +1,29 @@
+# Documentation
+DATA_DICTIONARY.md
+DFD.md
+
+# Database
+cyber_cafe_db.sql
+
+# Configuration & sensitive API keys
+config/config.php
+
+# User Uploads
+uploads/
+
+# Logs
+email_log.txt
+*.log
+
+# Vendor / Dependencies
+vendor/
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
